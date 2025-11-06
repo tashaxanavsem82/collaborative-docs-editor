@@ -1,4 +1,3 @@
-.gitignore
 
 node_modules/
 .DS_Store
@@ -6,3 +5,4 @@ node_modules/
 coverage/
 build/
 yarn.lock
+logs/
