@@ -1,7 +1,7 @@
 const editor = document.getElementById('editor');
 const commentsList = document.getElementById('comments-list');
 const commentInput = document.getElementById('comment-input');
-const addCommentButton = document.getElementById('add-comment');
+const addCommentButton = document.getElementById('add-comment-button');
 
 // Event listener for adding comments
 addCommentButton.addEventListener('click', () => {
