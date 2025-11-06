@@ -1,0 +1,14 @@
+{
+  "name": "collaborative-docs-editor",
+  "version": "1.0.0",
+  "description": "A web-based collaborative document editing platform.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
